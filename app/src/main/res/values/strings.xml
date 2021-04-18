@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fragmenappsti18d5</string>
+    <string name="action_setting">Setting</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="tittle_activity_second">SecondActivity</string>
+    <string name="pencet_tombol">Tekan Tombolnya</string>
+    <string name="tampil_tombol">Tampilkan Detail</string>
+    <string name="disini_Tampil">Disini kami Memiliki detailnya!</string>
+</resources>
